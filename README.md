@@ -2,8 +2,8 @@
 
 # Instructions to train from scratch:-
   UnZip Models and Numpy_File_Data  if you want to use it for experiment porposes or else go on with your on Data and Models by following    the steps below 
-  Run Data_Loader.ipynb
-  Run GANS_Model_v2.ipynb and change the Tensorflow 2.0  Dependencies to Tensorflow 1.14
+ 1. Run Data_Loader.ipynb
+ 2. Run GANS_Model_v2.ipynb and change the Tensorflow 2.0  Dependencies to Tensorflow 1.14
   
 # Instructions to Deploy the Model for production:-
 
