@@ -12,6 +12,7 @@ UnZip Models and Numpy_File_Data  if you want to use it for experiment porposes 
  2. if you are using Celeba dataset then 100 should be good 
  3. Lower the learning rate from 2e-4 to 1e-4 or 1.5e-4
  4. Train the network on 64 x 64 x 3 input Dimensions only or else enjoy the essence of Mode Collapse,Vanishing Gradient and much more   
+ 5. Don't mess with batch size or else, it will mess with your models performance. As far I have observed BATCH_SIZE = 32 is the most      optimal number for any amount of images you train on, it works great. Still you can mess around with this for your satisfaction but  remember we are generating new data not classifing the input data so some random number may disappoint  you  
 # Instructions to Deploy the Model for production:-
 
 
