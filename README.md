@@ -8,8 +8,8 @@ UnZip Models and Numpy_File_Data  if you want to use it for experiment porposes 
  2. Run GANS_Model_v2.ipynb and change the Tensorflow 2.0  Dependencies to Tensorflow 1.14
  
  # How to increase the performance and quality of GANS:-
- 1.Change the seed size to 20 for 13000+ images
- 2.if you are using Celeba dataset then 100 should be good 
+ 1. Change the seed size to 20 for 13000+ images
+ 2. if you are using Celeba dataset then 100 should be good 
  
 # Instructions to Deploy the Model for production:-
 
