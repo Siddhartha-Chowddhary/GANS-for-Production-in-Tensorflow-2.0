@@ -1,6 +1,6 @@
 # GANS-for-Production-in-Tensorflow-2.0
 
-# Original Arthur  of the code- Jeff Heaton ( https://github.com/jeffheaton )    
+
 
 # Instructions to train from scratch:-
 
